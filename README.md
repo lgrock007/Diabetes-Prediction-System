@@ -20,3 +20,18 @@ Tools:
 4. Scikit-learn
 5. TensorFlow or PyTorch
 6. Flask or Django
+
+
+<!-- PREDICTION SYSTEM/
+│
+├── templates/
+│   ├── index.html
+│   └── result.html
+│
+|── index.ipynb
+│   
+├── app.py
+│
+├── diabetes.csv
+│
+└── classifier.pkl , sc.pkl -->
