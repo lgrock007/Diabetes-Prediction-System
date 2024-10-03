@@ -17,7 +17,6 @@ def predict():
     pred = model.predict(sc.transform(final_features))
     return render_template('result.html', prediction=pred)
 
-
 if __name__ == "__main__":
     app.run(debug=True)
 
